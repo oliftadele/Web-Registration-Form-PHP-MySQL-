@@ -21,7 +21,7 @@ A sleek, modern registration form featuring a robust PHP backend and MySQL data 
 
 - **Frontend**: HTML5, Vanilla CSS, Vanilla JavaScript
 - **Backend**: PHP (PDO for secure database interaction)
-- **Database**: MySQL / MariaDB
+- **Database**: MySQL
 - **Libraries**: [Canvas Confetti](https://github.com/catdad/canvas-confetti) for animations.
 
 ## 🚀 Getting Started
